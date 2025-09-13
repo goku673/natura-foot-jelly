@@ -127,7 +127,7 @@ const handleAddToCart = (product, index) => {
                   </p>
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
-                  <a className="px-4 py-2 text-white bg-gray-900 rounded hover:bg-gray-700 transition-colors" href='#productos'>Ver Productos</a>
+                  <a className="px-4 py-2 text-white bg-blue-600 rounded hover:bg-gray-700 transition-colors" href='#productos'>Ver Productos</a>
                   <button onClick={() => setIsContactModalOpen(true)} className="px-4 py-2 text-gray-900 border border-gray-900 rounded hover:bg-blue-50 transition-colors">Contactar</button>
                 </div>
               </div>
