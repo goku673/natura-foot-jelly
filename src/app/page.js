@@ -397,7 +397,7 @@ const handleAddToCart = (product, index) => {
               type="submit" 
               className="w-full border border-white text-white py-2 px-4 rounded-md hover:bg-white hover:text-gray-900 transition-colors"
             >
-              Enviar Mensaje
+              Enviar Mensaje jgasgasdgg
             </button>
       </form>
     </div>
